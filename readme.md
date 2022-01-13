@@ -16,7 +16,7 @@ pip install numpy
 
 ## 程式介面
 
-![image-20220113133856814](readme\1.png)
+![image-20220113133856814](readme/1.png)
 
 
 
