@@ -34,7 +34,7 @@ pip install numpy
 
 ## 實際使用
 
-![image-20220113184457073](readme\2.png)
+![image-20220113184457073](readme/2.png)
 
 
 
@@ -42,5 +42,5 @@ pip install numpy
 
 ## 程式壓縮流程
 
-![](readme\3.png)
+![](readme/3.png)
 
